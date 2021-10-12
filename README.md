@@ -6,14 +6,14 @@
 
 I make full stack web applications and have a background in central government finance, having worked in whitehall for 4 years!
 
-- 🔭 I’m currently working on adding features to my capstone project, Stockbook!
-- 🌱 I’m currently learning React Native. 
-- 👯 I’m looking to collaborate on projects that can change the world. 
-- 🤔 I’m looking for help with improving my code (always room for improvement)!
-- 💬 Ask me about React (my fav thing!).
-- 📫 How to reach me: kai.kadir@hotmail.co.uk
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on adding features to my capstone project, Stockbook!  
+- 🌱 I’m currently learning React Native.  
+- 👯 I’m looking to collaborate on projects that can change the world.  
+- 🤔 I’m looking for help with improving my code (always room for improvement)!  
+- 💬 Ask me about React (my fav thing!).  
+- 📫 How to reach me: kai.kadir@hotmail.co.uk  
+- 😄 Pronouns: ...  
+- ⚡ Fun fact: ...   
 
 
 My stack
