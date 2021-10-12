@@ -12,10 +12,9 @@ I make full stack web applications and have a background in central government f
 - 🤔 I’m looking for help with improving my code (always room for improvement)!</br>  
 - 💬 Ask me about React (my fav thing!).</br>  
 - 📫 How to reach me: kai.kadir@hotmail.co.uk</br>  
-- ⚡ Fun fact: Pineapples do not belong on pizza!</br>   
+- ⚡ Fun fact: Pineapples do not belong on pizza!</br></br> 
 
-
-My stack
+My stack</br> </br> 
              
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white' />
