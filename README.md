@@ -6,8 +6,7 @@
 
 I make full stack web applications and have a background in central government finance, having worked in whitehall for 4 years!</br></br>
 
-- 🔭 I’m currently working on adding features to my capstone project, Stockbook!</br>    
-- 🌱 I’m currently learning React Native.</br>  
+- 🌱 I’m currently learning Java.</br>  
 - 👯 I’m looking to collaborate on projects that can change the world.</br>  
 - 🤔 I’m looking for help with improving my code (always room for improvement)!</br>  
 - 💬 Ask me about React (my fav thing!).</br>  
